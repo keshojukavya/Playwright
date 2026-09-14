@@ -1,0 +1,8 @@
+node_modules/
+test-results/
+playwright-report/
+allure-report/
+allure-results/
+state.json
+.DS_Store
+*.png
